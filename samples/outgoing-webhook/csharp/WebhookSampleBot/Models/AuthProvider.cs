@@ -17,8 +17,8 @@ namespace WebhookSampleBot.Models
         /// </summary>
         private static readonly Dictionary<string, string> SigningKeyDictionary = new Dictionary<string, string>()
             {
-                {"contoso", "vqF0En+Z0ucuRTM/01o2GuhMH3hKKk/N2bOmlM31zaA=" },
-                {"fabrikam", "QgyNSToQjf4p6+YzDpjKks1/tXeJQ7FhVHqRwTnugVI=" }
+                {"M365x712764", "vqF0En+Z0ucuRTM/01o2GuhMH3hKKk/N2bOmlM31zaA=" },
+                {"fabrika", "QgyNSToQjf4p6+YzDpjKks1/tXeJQ7FhVHqRwTnugVI=" }
             };
 
         /// <summary>
